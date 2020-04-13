@@ -1,22 +1,11 @@
 ---
 title: Mark Almond
-subtitle: Co-Principal French Horn, San Francisco Opera
+subtitle: Site under construction
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Biography
-  text: >-
-    Mark Almond joined the San Francisco Opera Orchestra as Co-Principal French
-    Horn in 2016. 
-
-
-    Mark grew up in Bolton, England and was taught primarily by Christopher Wormald, his local high school music teacher. After becoming principal horn of the National Youth Orchestra of Great Britain and the European Union Youth Orchestra he studied medicine at Cambridge and Oxford Universities. During this time he performed in the televised finals of the BBC Young Musician of the Year competition and the Shell London Symphony Orchestra Scholarship, winning the Silver medal. He has also been a finalist in the Paxman International Horn and Philip Jones International Brass competitions.
-
-
-
-    Whilst at medical school he made his professional debut with the London Symphony Orchestra (aged 19) and was later appointed 3rd Horn with the Philharmonia Orchestra of London. He has since played guest principal with the Philharmonia, Royal Philharmonic Orchestra, Royal Liverpool Philharmonic Orchestra, London Chamber Orchestra, City of Birmingham Symphony Orchestra and BBC National Orchestra of Wales. Highlights have included playing guest principal horn with the Philharmonia in Bruckner’s Fourth Symphony at Carnegie Hall under Christoph von Dohnanyi.
-
-
-    Mark is active as a soloist and chamber musician and has performed the Franz Strauss Concerto with the London Symphony Orchestra, Mozart's Horn Concerto No. 4 with the Hallé Orchestra and Richard Strauss' Concerto No.2 with Royal Liverpool Philharmonic Orchestra.  He can be heard on numerous movie soundtracks, including ‘Avengers: Age of Ultron’, ‘Antman’, ‘Chicago’, ‘The Da Vinci Code’ and ‘Harry Potter and the Half-Blood Prince’ amongst others.  In addition to playing the horn Mark is an experienced pulmonologist and general internal medicine physician and has recently been awarded a PhD in immunology and virology from Imperial College, London.
+  text: |
+    Under construction
 intro:
   heading: Teaching
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
